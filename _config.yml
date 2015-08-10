@@ -1,0 +1,14 @@
+# Site settings
+title: Hamster Sweaters
+email: admin@hamster-sweaters.com
+description: Description of hamster sweaters here.
+baseurl: ""
+url: "http://hamster-sweaters.com"
+
+# Build settings
+markdown: kramdown
+
+# Server
+destination: _site
+source: src
+encoding: UTF-8
